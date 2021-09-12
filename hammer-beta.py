@@ -74,7 +74,7 @@ def usage():
 	print (''' \033[92m	Hammer-Beta DDoS Script v.1
 	Geçerli tüm yasalara uymak son kullanıcının sorumluluğundadır.
 	Sadece sunucu test komut dosyası içindir. IP'niz görünüyor. \n
-	kullanım : python3 hammer.py [-s] [-p] [-t]
+	kullanım : python3 hammer-beta.py [-s] [-p] [-t]
 	-h : yardım
 	-s : server ip
 	-p : port varsayılan 80
