@@ -84,6 +84,10 @@ def dos2():
 
 def usage():
 	print (''' \033[92m	Hammer-Beta DDoS Script v.1
+	DİKKAT: DDoS SALDIRISI YAPMAYIN.
+	YASAL DIŞI NOT: DDoS SALDIRISI YAPMAYIN.
+	UYARI: DDoS SALDIRISI YAPMAYIN.
+	GitHub: https://github.com/SuperiorAsh8488/hammer-beta.git
 	Geçerli tüm yasalara uymak son kullanıcının sorumluluğundadır.
 	Sadece sunucu test komut dosyası içindir. IP'niz görünüyor. \n
 	kullanım : python3 hammer-beta.py [-s] [-p] [-t]
@@ -138,7 +142,10 @@ if __name__ == '__main__':
 		usage()
 	get_parameters()
 	print("\033[92m",host," port: ",str(port)," turbo: ",str(thr),"\033[0m")
-	print("\033[94mLütfen bekleyiniz...\033[0m")
+	print("\033[94m Lütfen bekleyiniz...\033[0m")
+	print("\033[94m DİKKAT: DDoS SALDIRISI YAPMAYIN. \033[0m")
+	print("\033[94m YASAL DIŞI NOT: DDoS SALDIRISI YAPMAYIN. \033[0m")
+	print("\033[94m UYARI: DDoS SALDIRISI YAPMAYIN. \033[0m")
 	user_agent()
 	my_bots()
 	time.sleep(5)
