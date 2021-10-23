@@ -1,6 +1,6 @@
 # hammer-beta
 Not: DDoS yapmak kötü bir davranıştır. CloudFlare kullanan siteyi bile DDoS saldırısı yapmayın VE ŞAKA AMAÇLI DDoS SALDIRISI YAPILMAZ!
-# DDoS Saldırısı yapalım (Lütfen evde denemeyiniz!)
+# DDoS Saldırısı yapmayalım! (Lütfen evde denemeyiniz!)
 Paketleri güncelleyin
 
     pkg update -y
