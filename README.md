@@ -2,6 +2,7 @@
 Not: DDoS yapmak kötü bir davranıştır. CloudFlare kullanan siteyi bile DDoS saldırısı yapmayın VE ŞAKA AMAÇLI DDoS SALDIRISI YAPILMAZ!
 # DDoS Saldırısı yapmayalım! (Lütfen evde denemeyiniz!)
 Paketleri güncelleyin
+Sorumluluk Bizde Değildir!!
 
     pkg update -y
     pkg upgrade -y
